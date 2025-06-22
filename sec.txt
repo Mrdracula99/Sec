@@ -1,0 +1,2 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#VipGoldConfig1
+vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@ASER.digimajaz-social.ir:500?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#vipConfig2
